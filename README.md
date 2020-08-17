@@ -39,6 +39,7 @@ Prerequisites for running the code are:
 - pandas == 0.24.2
 - mxnet == 1.6.0
 - python-dotenv == 0.14.0
+- imageio == 2.4.1
 
 We have tested our program in above version, however you can use it in other versions as well.
 
