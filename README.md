@@ -43,6 +43,14 @@ Prerequisites for running the code are:
 
 We have tested our program in above version, however you can use it in other versions as well.
 
+### Update path in .env file
+    
+    Replace "your/path/to/folder/" in .env file with path of your system.
+    
+    My username is abc, replace that with your system username.
+    
+    Eg: FACEDETECTOR = "/home/abc/AIML-Human-Attributes-Detection-with-Facial-Feature-Extraction/model/facenet/opencv_face_detector.pbtxt"
+
 ## Features
 
 - Face detection using FaceNet model
