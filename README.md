@@ -37,6 +37,7 @@ Prerequisites for running the code are:
 - python-opencv == 4.2.0
 - numpy == 1.18.5
 - pandas == 0.24.2
+- Keras == 2.2.4
 - mxnet == 1.6.0
 - python-dotenv == 0.14.0
 - imageio == 2.4.1
